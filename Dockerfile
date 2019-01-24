@@ -1,4 +1,4 @@
-FROM parrotstream/hadoop:2.8.5
+FROM parrotstream/hadoop:2.7.7
 
 MAINTAINER Matteo Capitanio <matteo.capitanio@gmail.com>
 
